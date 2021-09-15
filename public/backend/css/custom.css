@@ -1,0 +1,28 @@
+.action-panel ul {
+  padding: 0;
+  margin: 0;
+}
+.action-panel ul li {
+  list-style: none;
+  display: inline;
+  margin: 0 5px;
+}
+.action-panel ul li .fa-edit {
+  color: #ffc107;
+}
+.action-panel ul li .fa-eye {
+  color: #28a745;
+}
+.action-panel ul li .fa-trash-alt {
+  color: #dc3545;
+}
+.modal-buttons ul {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+.modal-buttons ul li {
+  list-style: none;
+  display: inline;
+  margin: 0 10px;
+}
